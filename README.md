@@ -70,13 +70,13 @@ This dashboard provides actionable business insights by analyzing Superstore sal
 
 ### 📌 Custom Sales Tooltip
 
-![Sales Tooltip](images/Tooltip_sales.png)
+![Sales Tooltip](Tooltip_sales.png)
 
 ---
 
 ### 📋 Product Details Tooltip
 
-![Product Tooltip](images/tooltip_details.png)
+![Product Tooltip](tooltip_details.png)
 
 ---
 
