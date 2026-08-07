@@ -64,7 +64,7 @@ This dashboard provides actionable business insights by analyzing Superstore sal
 
 ### 📊 Sales Analysis Dashboard
 
-![Sales Analysis](next_page.png)
+![Sales Analysis](Next_Page .png)
 
 ---
 
